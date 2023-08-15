@@ -5,7 +5,7 @@
  💻 Atuo tanto no Back quanto no Front. <br>
  📱 Estudo para ser um programador FullStack completo <br>
  🚀 Amo astronomia <br>
- 💲 Estudo muito sobre criptomoedas <br>
+ 💲 Estudo sobre criptomoedas <br>
  🎮 Adoro jogar e entender como os games funcionam <br>
  🎶  E música para motivar... <br>
 </h3>
