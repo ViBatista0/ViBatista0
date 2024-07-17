@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">* Tenho foco em Back End, com Java e Spring Framework.</p>
+<p align="left">* Tenho foco em Back End, com Java e Spring Framework, mas posso atuar com qualquer linguagem.</p>
 
 ###
 
